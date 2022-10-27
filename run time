@@ -1,0 +1,3 @@
+cd standalone/pruntime
+mkdir -p data
+cargo run
